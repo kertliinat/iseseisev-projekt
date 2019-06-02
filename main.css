@@ -1,0 +1,19 @@
+#pauseButton{
+  background: -webkit-linear-gradient(bottom left, #ffff00 0%, #ff3030 40%, #cc00ff 61%, #005dff 100%);
+  font-size: 24px;
+  border-radius: 30px;
+  border: none;
+  width:3%;
+  cursor: pointer;
+}
+#resumeButton{
+  background: -webkit-linear-gradient(bottom left, #ffff00 0%, #ff3030 40%, #cc00ff 61%, #005dff 100%);
+  font-size: 24px;
+  border-radius: 30px;
+  border: none;
+  width:3%;
+  cursor: pointer;
+}
+body{
+  background-color: white;
+}
